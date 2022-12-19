@@ -1,6 +1,7 @@
 {
   "domain": "traccar_cn",
   "name": "Traccar.cn",
+  "version": "1.0.0",
   "documentation": "https://www.home-assistant.io/components/traccar/",
   "requirements": [
     "pytraccar==0.9.0",
