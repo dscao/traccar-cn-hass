@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "documentation": "https://www.home-assistant.io/components/traccar/",
   "requirements": [
-    "pytraccar==0.9.0",
+    "pytraccar==1.0.0",
     "stringcase==1.2.0"
   ],
   "dependencies": [],
